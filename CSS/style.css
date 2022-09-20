@@ -276,6 +276,14 @@ pre {
 
 /* Footer */
 
+.footer ul li a {
+  transition: color 0.5s;
+}
+
+.footer ul li a:hover {
+  color: #aaa;
+}
+
 .footer .social a {
   margin: 0 10px;
 }
